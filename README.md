@@ -11,24 +11,18 @@ I'm passionate about data. I have the most experience in Knowledge Management, D
 
 I'm constantly going down rabbit holes on the web, which is good and bad. I enjoy tinkering with **Debian**, Google APIs, Raspberry Pi, and am now trying to learn more about Nginx web servers.
 
+### Other projects and 'things' I play with:
+
+- Raspberry Pi
+	- Pi-hole
+	- SSL Certificate Server
+- Calibre
+	- Web Service
+	- Nginx
+
 ### Contact
 
 Reach out if you have something to teach, learn, a mix of both, or just want to exchange thoughts.
 My contact information is os the left panel.
 
 👈
-
-<!--
-**sergiomoraes/sergiomoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
