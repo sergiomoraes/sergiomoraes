@@ -19,6 +19,8 @@ I'm constantly going down rabbit holes on the web, which is good and bad. I enjo
 - Calibre
 	- Web Service
 	- Nginx
+- Python
+	- Flask
 
 ### Contact
 
