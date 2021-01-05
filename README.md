@@ -2,25 +2,18 @@
 
 I'm passionate about data. I have the most experience in Knowledge Management, Data Management, Data Governance, and Data Quality.
 
-### I'm currently focusing on my [site](https://sergiomoraes.dev), which gives me a chance to practice the following:
+### These are some of the things I enjoy playing with:
 
-- Python
+
+- Python 3.7+
 - Github Actions
-- HTML/CSS/Liquid Syntax
-- Public APIs
-
-I'm constantly going down rabbit holes on the web, which is good and bad. I enjoy tinkering with **Debian**, Google APIs, Raspberry Pi, and am now trying to learn more about Nginx web servers.
-
-### Other projects and 'things' I play with:
-
+- HTML+CSS
+- APIs
+- Debian
 - Raspberry Pi
-	- Pi-hole
-	- SSL Certificate Server
-- Calibre
-	- Web Service
-	- Nginx
-- Python
-	- Flask
+
+
+I'm constantly going down rabbit holes on the web, which is good and bad.
 
 ### Contact
 
